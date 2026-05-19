@@ -56,3 +56,9 @@ dmd-time-delay-dmd/
 │   └── dmd_project_report_redacted.pdf
 ├── requirements.txt
 └── .gitignore
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python src/dmd_demo.py
